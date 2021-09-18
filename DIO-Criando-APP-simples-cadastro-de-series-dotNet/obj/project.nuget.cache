@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f5vDGafHAv+CpFKJwWS5mipHH0kMAvp7EiY7CDdNUTrwrOezbQPx5RVpKIsack4uvfgWv01jTgPX4c02bJWXrg==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\studyCsharp\\DIO-Criando-APP-simples-cadastro-de-series-dotNet\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teste\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Teste\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
